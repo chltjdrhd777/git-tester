@@ -1,3 +1,3 @@
-import { testValidation } from '../validation/testValidation';
+import { testValidation } from '../zodValidation/testValidation';
 
 testValidation();
